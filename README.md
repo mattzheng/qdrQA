@@ -5,6 +5,9 @@ qdrQA
 
 Query-Document Relevance ranking functions
 
+> thanks to [seomoz/qdr](https://github.com/seomoz/qdr)!
+
+
 
 承接[练习题 - 基于快速文本标题匹配的知识问答实现（一，基础篇）](https://blog.csdn.net/sinat_26917383/article/details/82224413)，前篇主要把qdr这个项目解剖了一下，现在开始应用做一下问答。
 
@@ -23,11 +26,6 @@ Query-Document Relevance ranking functions
 
 接下来会演示：一个极其简单的demo + 一部分百度问答语料的demo.
 
-
-----------
-
-## 目录
-[toc]
 
 ----------
 
@@ -212,5 +210,5 @@ sudo make install
 
 # Contributing
 Contributions welcome!  Fork, commit, then open a pull request.
-
+thanks to [seomoz/qdr](https://github.com/seomoz/qdr)!
 
